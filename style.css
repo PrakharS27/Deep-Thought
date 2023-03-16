@@ -1,0 +1,36 @@
+.container1{
+   display: flex;
+}
+
+.div1{
+    height: 400px;
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 40px;
+    /* border: 2px solid black; */
+    /* padding: 20px; */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.div2{
+    height: 400px;
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 2px solid black;
+    /* padding: 20px; */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.tech{
+    width: 600px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px 1px 1px;
+    text-align: center;
+    padding: 15px;
+
+}
