@@ -86,9 +86,11 @@
 
 .textarea1 {
   border: none;
+  resize: none;
 }
 .textarea2 {
   border: none;
+  resize: none;
 }
 .icons {
   padding-top: 10px;
@@ -128,4 +130,40 @@
 .textarea3{
     border: none;
     width: 95%;
+    resize: none;
 }
+
+.textarea4{
+margin-top: 5px;
+margin-left: 60px;
+resize: none;
+border: none;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 5px 5px 5px 5px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.textarea5{
+    margin-top: 5px;
+    margin-left: 23px;
+    resize: none;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+      border-radius: 5px 5px 5px 5px;
+      padding-top: 10px;
+    }
+    .intro{
+        background-color: lightgray;
+    }
+
+    .text{
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+
+    .Seemore{
+        text-align: end;
+        margin-right: 40px;
+    }
